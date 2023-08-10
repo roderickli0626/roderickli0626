@@ -1,16 +1,18 @@
-### Hi there 👋
+👋, I am a full-stack developer with over 5 years of experience. 🤝
 
-<!--
-**roderickli0626/roderickli0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <img src="https://komarev.com/ghpvc/?username=milosbayar&style=flat-square&color=blue" alt=""/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=milosbayar&theme=highcontrast)](https://git.io/streak-stats&theme=highcontrast)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milosbayar&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+Technologies I Use
+
+<img src="https://skillicons.dev/icons?i=angular,react,vue,redux,next,rxjs,graphql,nodejs,express,nest,laravel,py,django,flask,dotnet,java,spring,cs,dotnet,flutter,prisma,mysql,postgresql,mongodb,redis,dynamodb,git,jenkins,docker,kubernetes,aws&perline=14" alt="Technologies" width="100%"/>

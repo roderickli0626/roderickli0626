@@ -32,8 +32,9 @@ Technologies I Use
 ### Backend
 
 <div>
-  <img  alt="Spring" src="https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img  alt=".NET" src="https://img.shields.io/badge/ASP.NET-%234ea94b.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"/>
+  <img  alt="Spring" src="https://img.shields.io/badge/Spring-%2343853D.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img  alt=".NET" src="https://img.shields.io/badge/.NET-%234ea94b.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
+  <img  alt="Django" src="https://img.shields.io/badge/Django-%23404d59.svg?style=for-the-badge&logo=Django&logoColor=%2361DAFB"/>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
